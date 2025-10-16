@@ -1,1 +1,1 @@
-Esther is learning about terminal
+Esther is learning about terminal. This look cool
